@@ -2,7 +2,7 @@
 # CSI CHALLENGES
 
 
-DMCE Committee Portal is a platform that helps to bring the various committees present in college together, so that students can check out different ongoing events organized by the committees.
+Here are some Tech related challenges and questions designed for Events organized by CSI-DMCE
 
 
 ## Built With
